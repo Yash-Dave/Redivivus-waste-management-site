@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://github.com/Vivek-Hotti/REDIVIVUS/blob/main/images%26visuals/Github Banner.png"> 
+<img align="center" width="100%" src="https://github.com/Yash-Dave/Redivivus-waste-management-site/blob/main/images%26visuals/Github%20Banner%20Redivivus.png"> 
 
 # REDIVIVUS
 An end-to-end recyclable waste management website.<br/>
